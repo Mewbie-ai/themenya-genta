@@ -1852,6 +1852,16 @@ Footer
 #copyright {
     margin-bottom: 0;
 }
+.footer {
+    background: #f6f9ff;
+    padding: 20px 0 20px 0;
+    font-size: 14px;
+}
+.footer .copyright {
+    text-align: center;
+    padding-top: 10px;
+    color: #012970;
+}
 #footer-menu li {
     list-style: none;
     float: left;
@@ -1863,7 +1873,15 @@ Footer
 #footer-menu li a {
     color: #798992;
 }
-
+.align-items-center {
+    align-items: center!important;
+}
+.flex-column {
+    flex-direction: column!important;
+}
+.d-flex {
+    display: flex!important;
+}
 /* =========================================================
 Blog page
 ============================================================ */
