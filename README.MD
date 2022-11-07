@@ -1,4 +1,6 @@
-﻿Resolution theme
+front end/theme <a>https://genta.petra.ac.id</a>
+
+Resolution theme
 --------------------
 
 Resolution is a multi purpose wordpress theme which could be used for almost all kinds of business. You can use it for Ecommerce, Blog, Portfolio, Coporate web site. Especially, it comes with Jigoshop plugin which makes it become a good ecommerce website. Fully responsive Resolution looks beautiful and is very attractive on any device. It has two optional versions – Wide and Boxed and multi-layouts, this Multi Purpose WordPress Theme provides everything you’ll need to create a professional looking website. Theme is designed and coded by http://kopatheme.com
