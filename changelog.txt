@@ -1,0 +1,91 @@
+Theme : Resolution (wordpress.org release)
+Version : 1.0.8
+Author : Kopatheme - http://kopatheme.com
+
+October 10 2014 - 1.0.10
+
+ - updated: added kopa_contact_info_widget
+
+September 9 2014 - 1.0.9
+ - updated custom.js
+
+September 3 2014 - 1.0.8
+ - fixed error kopa featured widget 
+
+
+August 2 2014 - 1.0.7
+ - added default title to posts without title
+ - added smoothHeight to Flexslider
+ - added color to current page number
+ - updated: focus on comment form when click reply button
+ - updated: comments.php
+ - updated: add timestamp to widgets
+
+June 4 2014 - 1.0.6
+- fixed bug article list with 1 post
+
+April 1 2014 - 1.0.4
+===========================================================
+Updated: store all theme option values to a single DB entry array "kopa_theme_options"
+Updated: appropriate cap for Theme options is "edit_theme_options"
+Removed: unnecessary files
+	archive.php
+	home.php
+	page.php
+	search.php
+	single.php
+Removed: post "like" ajax functionality
+
+March 29 2014 - 1.0.3
+===========================================================
+Updated: Change screenshot, added license in readme.txt
+
+March 28 2014 - 1.0.2
+===========================================================
+Updated: remove kopa_initial_database and now the theme can run under the Sane Defaults
+Changed: theme license to GPL v3 in style.css
+Updated: copyright/license for retina.js & jquery.prettyPhoto.js
+Updated: copyright/license for js files in folder library/js
+Updated: 880x660 screenshot, copyright/license for images in readme.txt
+Updated: layout images
+Replaced: htmlspecialchars by esc_html in header.php
+Removed: isotope code in custom.js
+Removed: wp_enqueue_script('jquery'); from kopa.php
+Updated: Post Format Gallery now support the standard 3 columns layout for gallery format
+Updated: add max-width for text-title and breadcrumb
+Updated: post with no title now has permalink (Read more)
+Updated: validation/sanitization on data input for theme options
+Updated: limitation of top menu and footer menu in readme.txt
+
+
+March 24 2014 - 1.0.1
+===========================================================
+Removed: Kopa Plugin Resolution Shortcode
+Updated: license, copyright to js files
+Updated: Change screenshot, added license in readme.txt
+Updated: use core masonry.js instead of custom file
+Updated: add prefix to variables, function name,...
+Updated: add resolution.pot to languages folder
+Removed: kopa_custom_front_localization(), kopa_add_image_sizes(), kopa_get_video_thumbnails_url()
+Updated: $kopa_theme_option_tracking_code removed
+Updated: register_sidebar hooked to widgets_init action
+Updated: load_theme_textdomain was called from kopa_after_setup_theme() callback hooked to the after_setup_theme action.
+Removed: folder library/js/shortcodes
+Updated: external pointing links set to open in a new window
+Removed: kopa_ajax_send_contact(), kopa_sharing_button() functions
+Updated: user data is correctly validated/sanitized
+Removed: jquery validate for comment form
+
+
+March 18 2014 - 1.0.1
+===========================================================
+Updated: theme info
+Updated: description of article list widget 
+Updated: responsive style
+Updated: size for small images on article list widget
+Updated: new localization files
+Changed: version number
+
+March 12 2014 - 1.0.0
+===========================================================
+Initial release

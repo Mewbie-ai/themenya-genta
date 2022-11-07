@@ -1,0 +1,1154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Resolution v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-28 11:56:12+0000\n"
+"Last-Translator: admin <tr.duy91@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:11
+#@ resolution
+msgid "404"
+msgstr ""
+
+#: 404.php:14
+#@ resolution
+msgid "Page not found..."
+msgstr ""
+
+#: 404.php:15
+#@ resolution
+msgid "We're sorry, but we can't find the page you were looking for. It's probably some thing we've done wrong but now we know about it we'll try to fix it. In the meantime, try one of these options:"
+msgstr ""
+
+#: 404.php:18
+#@ resolution
+msgid "Go back to previous page"
+msgstr ""
+
+#: 404.php:21
+#@ resolution
+msgid "Go to homepage"
+msgstr ""
+
+#: comments.php:60
+#@ resolution
+msgid "Pingback"
+msgstr ""
+
+#: comments.php:61
+#: comments.php:88
+#@ resolution
+msgid " at "
+msgstr ""
+
+#: comments.php:63
+#: comments.php:90
+#@ resolution
+msgid "Edit"
+msgstr ""
+
+#: comments.php:114
+#@ resolution
+msgid "Name"
+msgstr ""
+
+#: comments.php:118
+#@ resolution
+msgid "Email"
+msgstr ""
+
+#: comments.php:122
+#@ resolution
+msgid "Website"
+msgstr ""
+
+#: comments.php:145
+#, php-format
+#@ resolution
+msgid "Logged in as <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+msgstr ""
+
+#: comments.php:145
+#@ resolution
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:145
+#@ resolution
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:150
+#@ resolution
+msgid "Post your comments"
+msgstr ""
+
+#: comments.php:153
+#@ resolution
+msgid "Post Comment"
+msgstr ""
+
+#: content-blog.php:17
+#: library/front.php:194
+#@ resolution
+msgid "Blog"
+msgstr ""
+
+#: content-blog.php:23
+#, php-format
+#@ resolution
+msgid "Search Results for: %s"
+msgstr ""
+
+#: content-blog.php:35
+#, php-format
+#@ resolution
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: content-blog.php:39
+#, php-format
+#@ resolution
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: content-blog.php:39
+#@ resolution
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: content-blog.php:43
+#, php-format
+#@ resolution
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: content-blog.php:43
+#@ resolution
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: content-blog.php:47
+#@ resolution
+msgid "Author Archives"
+msgstr ""
+
+#: content-blog.php:51
+#@ resolution
+msgid "Archives"
+msgstr ""
+
+#: format-single-audio.php:57
+#: format-single-gallery.php:29
+#: format-single-video.php:35
+#: format-single.php:35
+#@ resolution
+msgid "Pages"
+msgstr ""
+
+#: format-single-audio.php:66
+#: format-single-gallery.php:38
+#: format-single-video.php:43
+#: format-single.php:43
+#@ resolution
+msgid "Tagged with:"
+msgstr ""
+
+#: header.php:71
+#@ resolution
+msgid "Logo"
+msgstr ""
+
+#: library/front.php:14
+#@ resolution
+msgid "Top Menu"
+msgstr ""
+
+#: library/front.php:15
+#@ resolution
+msgid "Main Menu"
+msgstr ""
+
+#: library/front.php:16
+#@ resolution
+msgid "Footer Menu"
+msgstr ""
+
+#: library/front.php:82
+#, php-format
+#@ resolution
+msgid "Page %s"
+msgstr ""
+
+#: library/front.php:36
+#@ resolution
+msgid "Silder Image (Kopatheme)"
+msgstr ""
+
+#: library/front.php:37
+#@ resolution
+msgid "Thumbnail small post (Kopatheme)"
+msgstr ""
+
+#: library/front.php:38
+#@ resolution
+msgid "Big post thumbnail (Kopatheme)"
+msgstr ""
+
+#: library/front.php:39
+#@ resolution
+msgid "Thumbnail small post (2) (Kopatheme)"
+msgstr ""
+
+#: library/front.php:40
+#@ resolution
+msgid "related post thumbnails"
+msgstr ""
+
+#: library/front.php:180
+#@ resolution
+msgid "Home"
+msgstr ""
+
+#: library/front.php:312
+#@ resolution
+msgid "Related Articles"
+msgstr ""
+
+#: library/front.php:545
+#@ resolution
+msgid "Previous"
+msgstr ""
+
+#: library/front.php:546
+#@ resolution
+msgid "Next"
+msgstr ""
+
+#: library/front.php:627
+#@ resolution
+msgid "Facebook"
+msgstr ""
+
+#: library/front.php:634
+#@ resolution
+msgid "Twitter"
+msgstr ""
+
+#: library/front.php:589
+#@ resolution
+msgid "About the author /"
+msgstr ""
+
+#: library/front.php:740
+#@ resolution
+msgid "Previous article"
+msgstr ""
+
+#: library/front.php:747
+#@ resolution
+msgid "Next article"
+msgstr ""
+
+#: library/includes/ajax.php:332
+#, php-format
+#@ resolution
+msgid "%1$s Likes"
+msgstr ""
+
+#: library/includes/ajax.php:404
+#@ resolution
+msgid " Article"
+msgstr ""
+
+#: library/includes/ajax.php:405
+#@ resolution
+msgid " Articles"
+msgstr ""
+
+#: library/includes/ajax.php:431
+#: library/includes/ajax.php:464
+#: library/includes/ajax.php:494
+#: library/includes/ajax.php:516
+#: library/includes/ajax.php:558
+#@ resolution
+msgid "No Comment"
+msgstr ""
+
+#: library/includes/ajax.php:431
+#: library/includes/ajax.php:464
+#: library/includes/ajax.php:494
+#: library/includes/ajax.php:516
+#: library/includes/ajax.php:558
+#@ resolution
+msgid "1 Comment"
+msgstr ""
+
+#: library/includes/ajax.php:431
+#: library/includes/ajax.php:464
+#: library/includes/ajax.php:494
+#: library/includes/ajax.php:516
+#: library/includes/ajax.php:558
+#@ resolution
+msgid "% Comments"
+msgstr ""
+
+#: library/includes/ajax.php:431
+#: library/includes/ajax.php:464
+#: library/includes/ajax.php:494
+#: library/includes/ajax.php:516
+#: library/includes/ajax.php:558
+#@ resolution
+msgid "Comments Off"
+msgstr ""
+
+#: library/includes/ajax.php:467
+#: library/includes/ajax.php:525
+#: library/includes/ajax.php:561
+#@ resolution
+msgid "Continue Reading &raquo;"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-css.php:5
+#: library/includes/cpanel/theme-options-page.php:11
+#@ resolution
+msgid "Custom CSS"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-css.php:10
+#@ resolution
+msgid "Enter the your custom CSS code"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:6
+#@ resolution
+msgid "Logo, Favicon, Apple Icon, Banner"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:12
+#, php-format
+#@ resolution
+msgid "Use <a href=\"%s\">custom header</a> to upload logo image and change site title color."
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:13
+#@ resolution
+msgid "Logo margin"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:14
+#@ resolution
+msgid "Top margin:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:16
+#: library/includes/cpanel/theme-options/general.php:22
+#: library/includes/cpanel/theme-options/general.php:28
+#: library/includes/cpanel/theme-options/general.php:34
+#@ resolution
+msgid "px"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:20
+#@ resolution
+msgid "Left margin:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:26
+#@ resolution
+msgid "Right margin:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:32
+#@ resolution
+msgid "Bottom margin:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:39
+#@ resolution
+msgid "Top Banner "
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:40
+#@ resolution
+msgid "Upload your top banner."
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:49
+#@ resolution
+msgid "Favicon"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:51
+#@ resolution
+msgid "Upload your own favicon."
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:54
+#: library/includes/cpanel/theme-options/general.php:65
+#: library/includes/cpanel/theme-options/general.php:70
+#: library/includes/cpanel/theme-options/general.php:76
+#: library/includes/cpanel/theme-options/general.php:82
+#@ resolution
+msgid "Upload"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:60
+#@ resolution
+msgid "Apple Icons"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:62
+#@ resolution
+msgid "Iphone (57px - 57px)"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:67
+#@ resolution
+msgid "Iphone Retina (114px - 114px)"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:73
+#@ resolution
+msgid "Ipad (72px - 72px)"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:79
+#@ resolution
+msgid "Ipad Retina (144px - 144px)"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:95
+#@ resolution
+msgid "Contact Information"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:101
+#@ resolution
+msgid "Phone number:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:105
+#: library/includes/widgets/kopa_info_widget.php:74
+#@ resolution
+msgid "Address:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:109
+#: library/includes/widgets/kopa_info_widget.php:86
+#@ resolution
+msgid "Email:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:115
+#@ resolution
+msgid "Footer"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:121
+#@ resolution
+msgid "Custom Footer"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:122
+#@ resolution
+msgid "Enter the content you want to display in your footer (e.g. copyright text)."
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:6
+#@ resolution
+msgid "Post Content"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:11
+#@ resolution
+msgid "Thumbnail Image"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:14
+#: library/includes/cpanel/theme-options/post.php:32
+#: library/includes/cpanel/theme-options/post.php:55
+#@ resolution
+msgid "Show"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:15
+#: library/includes/cpanel/theme-options/post.php:33
+#: library/includes/cpanel/theme-options/post.php:56
+#@ resolution
+msgid "Hide"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:29
+#@ resolution
+msgid "Previous/Next Post Link"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:49
+#@ resolution
+msgid "About Author"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:70
+#@ resolution
+msgid "Related Posts"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:76
+#@ resolution
+msgid "Get By"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:80
+#@ resolution
+msgid "-- Hide --"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:81
+#@ resolution
+msgid "Tag"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:82
+#@ resolution
+msgid "Category"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:92
+#@ resolution
+msgid "Limit"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:5
+#: library/includes/cpanel/theme-options-page.php:10
+#@ resolution
+msgid "Social Links"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:12
+#@ resolution
+msgid "RSS URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:13
+#@ resolution
+msgid "Display the RSS feed button with the default RSS feed or enter a custom feed below. <br><code>Enter <b>\"HIDE\"</b> if you want to hide it</code>"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:19
+#@ resolution
+msgid "Facebook_URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:25
+#@ resolution
+msgid "Twitter URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:30
+#@ resolution
+msgid "Google Plus URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:34
+#@ resolution
+msgid "*Enter HIDE or leave blank to hide Facebook, Twitter or Google Plus link"
+msgstr ""
+
+#: library/includes/cpanel/theme-options-page.php:8
+#@ resolution
+msgid "General Setting"
+msgstr ""
+
+#: library/includes/cpanel/theme-options-page.php:9
+#@ resolution
+msgid "Single Post"
+msgstr ""
+
+#: library/includes/cpanel/theme-options-page.php:18
+#: library/kopa.php:21
+#@ resolution
+msgid "Theme Options"
+msgstr ""
+
+#: library/includes/cpanel/theme-options-page.php:22
+#@ resolution
+msgid "Visit author URL:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options-page.php:30
+#: library/includes/cpanel/theme-options-page.php:48
+#@ resolution
+msgid "Save"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:6
+#@ resolution
+msgid "Show new post"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:8
+#@ resolution
+msgid "Kopa Article List"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:50
+#: library/includes/widgets/kopa_article_list_widget.php:97
+#: library/includes/widgets/kopa_combo_widget.php:79
+#: library/includes/widgets/kopa_featured_widget.php:81
+#: library/includes/widgets/kopa_featured_widget.php:142
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:48
+#: library/includes/widgets/kopa_topping_slide_widget.php:68
+#: loop-blog.php:22
+#@ resolution
+msgid "Posted in:"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:53
+#: library/includes/widgets/kopa_article_list_widget.php:100
+#: library/includes/widgets/kopa_article_list_widget.php:188
+#: library/includes/widgets/kopa_featured_widget.php:84
+#: library/includes/widgets/kopa_featured_widget.php:145
+#: library/includes/widgets/kopa_featured_widget.php:243
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:51
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:138
+#: library/includes/widgets/kopa_flex_slider_widget.php:147
+#: loop-blog.php:26
+#@ resolution
+msgid "Tags:"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:58
+#@ resolution
+msgid "Read More"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:156
+#: library/includes/widgets/kopa_featured_widget.php:211
+#: library/includes/widgets/kopa_flickr_widget.php:51
+#: library/includes/widgets/kopa_gallery_widget.php:98
+#: library/includes/widgets/kopa_headline_slide_widget.php:81
+#: library/includes/widgets/kopa_info_widget.php:62
+#: library/includes/widgets/kopa_socials_link_widget.php:110
+#: library/includes/widgets/kopa_topping_slide_widget.php:130
+#: library/includes/widgets/kopa_twitter_widget.php:48
+#@ resolution
+msgid "Title:"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:161
+#: library/includes/widgets/kopa_featured_widget.php:216
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:112
+#: library/includes/widgets/kopa_flex_slider_widget.php:121
+#: library/includes/widgets/kopa_headline_slide_widget.php:86
+#: library/includes/widgets/kopa_topping_slide_widget.php:135
+#@ resolution
+msgid "Categories:"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:163
+#: library/includes/widgets/kopa_article_list_widget.php:190
+#: library/includes/widgets/kopa_featured_widget.php:218
+#: library/includes/widgets/kopa_featured_widget.php:245
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:114
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:140
+#: library/includes/widgets/kopa_flex_slider_widget.php:123
+#: library/includes/widgets/kopa_flex_slider_widget.php:149
+#: library/includes/widgets/kopa_gallery_widget.php:105
+#: library/includes/widgets/kopa_headline_slide_widget.php:88
+#: library/includes/widgets/kopa_topping_slide_widget.php:137
+#@ resolution
+msgid "-- None --"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:174
+#: library/includes/widgets/kopa_featured_widget.php:229
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:124
+#: library/includes/widgets/kopa_flex_slider_widget.php:133
+#@ resolution
+msgid "Relation:"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:178
+#: library/includes/widgets/kopa_featured_widget.php:233
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:128
+#: library/includes/widgets/kopa_flex_slider_widget.php:137
+#@ resolution
+msgid "And"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:179
+#: library/includes/widgets/kopa_featured_widget.php:234
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:129
+#: library/includes/widgets/kopa_flex_slider_widget.php:138
+#@ resolution
+msgid "Or"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:201
+#: library/includes/widgets/kopa_featured_widget.php:256
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:150
+#: library/includes/widgets/kopa_flex_slider_widget.php:159
+#: library/includes/widgets/kopa_headline_slide_widget.php:101
+#: library/includes/widgets/kopa_topping_slide_widget.php:150
+#@ resolution
+msgid "Number of articles"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:206
+#: library/includes/widgets/kopa_featured_widget.php:261
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:154
+#: library/includes/widgets/kopa_flex_slider_widget.php:164
+#: library/includes/widgets/kopa_headline_slide_widget.php:106
+#: library/includes/widgets/kopa_topping_slide_widget.php:155
+#@ resolution
+msgid "Orderby:"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:210
+#: library/includes/widgets/kopa_combo_widget.php:121
+#: library/includes/widgets/kopa_featured_widget.php:265
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:158
+#: library/includes/widgets/kopa_flex_slider_widget.php:168
+#: library/includes/widgets/kopa_headline_slide_widget.php:110
+#: library/includes/widgets/kopa_topping_slide_widget.php:159
+#@ resolution
+msgid "Latest"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:211
+#: library/includes/widgets/kopa_featured_widget.php:266
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:159
+#: library/includes/widgets/kopa_flex_slider_widget.php:169
+#: library/includes/widgets/kopa_headline_slide_widget.php:111
+#: library/includes/widgets/kopa_topping_slide_widget.php:160
+#@ resolution
+msgid "Popular by View Count"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:212
+#: library/includes/widgets/kopa_featured_widget.php:267
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:160
+#: library/includes/widgets/kopa_flex_slider_widget.php:170
+#: library/includes/widgets/kopa_headline_slide_widget.php:112
+#: library/includes/widgets/kopa_topping_slide_widget.php:161
+#@ resolution
+msgid "Popular by Comment Count"
+msgstr ""
+
+#: library/includes/widgets/kopa_article_list_widget.php:213
+#: library/includes/widgets/kopa_combo_widget.php:127
+#: library/includes/widgets/kopa_featured_widget.php:268
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:161
+#: library/includes/widgets/kopa_flex_slider_widget.php:171
+#: library/includes/widgets/kopa_headline_slide_widget.php:113
+#: library/includes/widgets/kopa_topping_slide_widget.php:162
+#@ resolution
+msgid "Random"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:6
+#@ resolution
+msgid "Display your popular posts, recent posts, popular by comment posts and random posts"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:8
+#@ resolution
+msgid "Kopa Combo Widget"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:82
+#: library/includes/widgets/kopa_topping_slide_widget.php:71
+#@ resolution
+msgid "Comments"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:82
+#: library/includes/widgets/kopa_topping_slide_widget.php:71
+#@ resolution
+msgid "0"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:82
+#: library/includes/widgets/kopa_topping_slide_widget.php:71
+#@ resolution
+msgid "1"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:82
+#: library/includes/widgets/kopa_topping_slide_widget.php:71
+#@ resolution
+msgid "%"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:123
+#@ resolution
+msgid "Popular"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:125
+#@ resolution
+msgid "Most comment"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:139
+#@ resolution
+msgid "Latest post title:"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:145
+#@ resolution
+msgid "Number of latest posts"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:150
+#@ resolution
+msgid "Most viewed title:"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:155
+#@ resolution
+msgid "Number of most viewed posts"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:160
+#@ resolution
+msgid "Most comment title:"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:165
+#@ resolution
+msgid "Number of most comment posts"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:170
+#@ resolution
+msgid "Random title:"
+msgstr ""
+
+#: library/includes/widgets/kopa_combo_widget.php:175
+#@ resolution
+msgid "Number of random posts"
+msgstr ""
+
+#: library/includes/widgets/kopa_featured_widget.php:11
+#@ resolution
+msgid "Show a post slider and a post list"
+msgstr ""
+
+#: library/includes/widgets/kopa_featured_widget.php:13
+#@ resolution
+msgid "Kopa Featured Widget"
+msgstr ""
+
+#: library/includes/widgets/kopa_featured_widget.php:279
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:172
+#: library/includes/widgets/kopa_flex_slider_widget.php:182
+#: library/includes/widgets/kopa_gallery_widget.php:117
+#: library/includes/widgets/kopa_topping_slide_widget.php:173
+#@ resolution
+msgid "Animation:"
+msgstr ""
+
+#: library/includes/widgets/kopa_featured_widget.php:283
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:176
+#: library/includes/widgets/kopa_flex_slider_widget.php:186
+#: library/includes/widgets/kopa_gallery_widget.php:121
+#: library/includes/widgets/kopa_topping_slide_widget.php:177
+#@ resolution
+msgid "Fade"
+msgstr ""
+
+#: library/includes/widgets/kopa_featured_widget.php:284
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:177
+#: library/includes/widgets/kopa_flex_slider_widget.php:187
+#: library/includes/widgets/kopa_gallery_widget.php:122
+#: library/includes/widgets/kopa_topping_slide_widget.php:178
+#@ resolution
+msgid "Slide"
+msgstr ""
+
+#: library/includes/widgets/kopa_featured_widget.php:293
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:186
+#: library/includes/widgets/kopa_flex_slider_widget.php:196
+#: library/includes/widgets/kopa_gallery_widget.php:134
+#: library/includes/widgets/kopa_topping_slide_widget.php:187
+#@ resolution
+msgid "Direction:"
+msgstr ""
+
+#: library/includes/widgets/kopa_featured_widget.php:297
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:190
+#: library/includes/widgets/kopa_flex_slider_widget.php:200
+#: library/includes/widgets/kopa_gallery_widget.php:138
+#: library/includes/widgets/kopa_topping_slide_widget.php:191
+#@ resolution
+msgid "Horizontal"
+msgstr ""
+
+#: library/includes/widgets/kopa_featured_widget.php:307
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:199
+#: library/includes/widgets/kopa_flex_slider_widget.php:209
+#: library/includes/widgets/kopa_gallery_widget.php:151
+#@ resolution
+msgid "Slideshow Speed (ms):"
+msgstr ""
+
+#: library/includes/widgets/kopa_featured_widget.php:311
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:203
+#: library/includes/widgets/kopa_flex_slider_widget.php:213
+#: library/includes/widgets/kopa_gallery_widget.php:155
+#@ resolution
+msgid "Animation Speed (ms):"
+msgstr ""
+
+#: library/includes/widgets/kopa_featured_widget.php:317
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:208
+#: library/includes/widgets/kopa_flex_slider_widget.php:219
+#: library/includes/widgets/kopa_gallery_widget.php:161
+#@ resolution
+msgid "Auto play slider"
+msgstr ""
+
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:11
+#@ resolution
+msgid "Flex Slider with thumbnail"
+msgstr ""
+
+#: library/includes/widgets/kopa_flex_slider_2_widget.php:13
+#@ resolution
+msgid "Kopa Flex Slider with Thumbnail"
+msgstr ""
+
+#: library/includes/widgets/kopa_flex_slider_widget.php:6
+#@ resolution
+msgid "Flex Slider show posts by categories and/or tags"
+msgstr ""
+
+#: library/includes/widgets/kopa_flex_slider_widget.php:8
+#@ resolution
+msgid "Kopa Flex Slider"
+msgstr ""
+
+#: library/includes/widgets/kopa_flickr_widget.php:6
+#@ resolution
+msgid "Display images from Flickr"
+msgstr ""
+
+#: library/includes/widgets/kopa_flickr_widget.php:8
+#@ resolution
+msgid "Kopa Flickr"
+msgstr ""
+
+#: library/includes/widgets/kopa_flickr_widget.php:42
+#@ resolution
+msgid "Flickr"
+msgstr ""
+
+#: library/includes/widgets/kopa_flickr_widget.php:56
+#@ resolution
+msgid "ID:"
+msgstr ""
+
+#: library/includes/widgets/kopa_flickr_widget.php:61
+#@ resolution
+msgid "Number of images"
+msgstr ""
+
+#: library/includes/widgets/kopa_gallery_widget.php:6
+#@ resolution
+msgid "Display a gallery from a specific gallery post-format post"
+msgstr ""
+
+#: library/includes/widgets/kopa_gallery_widget.php:8
+#@ resolution
+msgid "Kopa Gallery"
+msgstr ""
+
+#: library/includes/widgets/kopa_gallery_widget.php:80
+#@ resolution
+msgid "Gallery"
+msgstr ""
+
+#: library/includes/widgets/kopa_gallery_widget.php:103
+#@ resolution
+msgid "Gallery:"
+msgstr ""
+
+#: library/includes/widgets/kopa_headline_slide_widget.php:5
+#@ resolution
+msgid "Headline running"
+msgstr ""
+
+#: library/includes/widgets/kopa_headline_slide_widget.php:7
+#@ resolution
+msgid "Kopa Headline Slide"
+msgstr ""
+
+#: library/includes/widgets/kopa_headline_slide_widget.php:66
+#@ resolution
+msgid "Breaking News"
+msgstr ""
+
+#: library/includes/widgets/kopa_info_widget.php:6
+#@ resolution
+msgid "Your site description, address, phone and email"
+msgstr ""
+
+#: library/includes/widgets/kopa_info_widget.php:8
+#@ resolution
+msgid "Kopa Info Widget"
+msgstr ""
+
+#: library/includes/widgets/kopa_info_widget.php:68
+#@ resolution
+msgid "Description:"
+msgstr ""
+
+#: library/includes/widgets/kopa_info_widget.php:80
+#@ resolution
+msgid "Phone:"
+msgstr ""
+
+#: library/includes/widgets/kopa_socials_link_widget.php:6
+#@ resolution
+msgid "A social links widget"
+msgstr ""
+
+#: library/includes/widgets/kopa_socials_link_widget.php:8
+#@ resolution
+msgid "Kopa Socials Link"
+msgstr ""
+
+#: library/includes/widgets/kopa_socials_link_widget.php:117
+#@ resolution
+msgid "Location:"
+msgstr ""
+
+#: library/includes/widgets/kopa_socials_link_widget.php:121
+#@ resolution
+msgid "Bottom sidebar"
+msgstr ""
+
+#: library/includes/widgets/kopa_socials_link_widget.php:122
+#@ resolution
+msgid "Right sidebar"
+msgstr ""
+
+#: library/includes/widgets/kopa_topping_slide_widget.php:6
+#@ resolution
+msgid "A slider of posts, each slide shows posts from one category of selected categories"
+msgstr ""
+
+#: library/includes/widgets/kopa_topping_slide_widget.php:8
+#@ resolution
+msgid "Kopa Topping Slider"
+msgstr ""
+
+#: library/includes/widgets/kopa_topping_slide_widget.php:111
+#@ resolution
+msgid "Topping chart"
+msgstr ""
+
+#: library/includes/widgets/kopa_topping_slide_widget.php:192
+#@ resolution
+msgid "Vertical"
+msgstr ""
+
+#: library/includes/widgets/kopa_twitter_widget.php:6
+#@ resolution
+msgid "Latest Tweet"
+msgstr ""
+
+#: library/includes/widgets/kopa_twitter_widget.php:8
+#@ resolution
+msgid "Kopa Latest Tweet"
+msgstr ""
+
+#: library/includes/widgets/kopa_twitter_widget.php:53
+#@ resolution
+msgid "Username:"
+msgstr ""
+
+#: library/includes/widgets/kopa_twitter_widget.php:58
+#@ resolution
+msgid "Number of tweets"
+msgstr ""
+
+#: loop-blog.php:42
+#@ resolution
+msgid "Nothing Found"
+msgstr ""
+
+#: searchform.php:2
+#@ resolution
+msgid "Search..."
+msgstr ""
+
+#: library/front.php:623
+#@ resolution
+msgid "Staff Info"
+msgstr ""
+
+#: library/front.php:624
+#@ resolution
+msgid "The information will be displayed in your post about author."
+msgstr ""
+
+#: library/front.php:630
+#@ resolution
+msgid "Staff facebook url"
+msgstr ""
+
+#: library/front.php:637
+#@ resolution
+msgid "Staff twitter url"
+msgstr ""
+
+#: library/front.php:641
+#@ resolution
+msgid "Google Plus"
+msgstr ""
+
+#: library/front.php:644
+#@ resolution
+msgid "Staff google plus url"
+msgstr ""
+
+#: library/front.php:648
+#@ resolution
+msgid "Linkedin"
+msgstr ""
+
+#: library/front.php:651
+#@ resolution
+msgid "Staff linkedin url"
+msgstr ""
+
+#: library/front.php:671
+#@ resolution
+msgid "Read more"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:123
+#@ resolution
+msgid "Copyrights. &copy; 2014 by KOPASOFT"
+msgstr ""
+

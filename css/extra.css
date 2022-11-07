@@ -1,0 +1,283 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 20, 2014, 2:48:40 PM
+    Author     : Duy
+*/
+
+/*
+1. Headline Slider
+2. Columns
+3. Comment Button
+4. Images
+5. Default Widget
+6. Table, list
+7. Threaded comment
+8. 404 page
+9. Comment number & posted in & entry tags
+10. Article list older post
+11. Single post title
+*/
+
+
+/*
+1. Headline Slider
+*/
+.kp-sidebar .kp-headline{
+    float: none;
+    width: inherit;
+    overflow: hidden;
+}
+
+/*
+2. Columns
+*/
+
+.kopa-one-half {
+    float:left;
+    margin-right:3%;
+    width:48%;
+}
+.kopa-one-third {
+    float:left;
+    margin-right:2%;
+    width:32%;
+}
+.kopa-two-third {
+    float:left;
+    margin-right:2%;
+    width:66%;
+}
+.kopa-one-fourth {
+    float:left;
+    margin-right:2%;
+    width:23.5%;
+}
+.kopa-three-fourth {
+    float:left;
+    margin-right:2%;
+    width:74.5%;
+}
+
+.kopa-one-half.last,
+.kopa-one-third.last,
+.kopa-two-third.last,
+.kopa-one-fourth.last,
+.kopa-three-fourth.last{
+    margin-right:0 !important;
+}
+
+.wp-caption{}
+.wp-caption-text{}
+.sticky{}
+.gallery-caption{}
+.bypostauthor{}
+.alignleft {
+    display: inline;
+    float: left;
+    margin-right: 10px;
+}
+.alignright {
+    display: inline;
+    float: right;
+    margin-left: 10px;
+}
+.aligncenter {
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*
+3. Comment Button 
+*/
+#respond #comments-form .form-submit{
+    display: inline-block;
+    background-color: #33363b;
+    padding: 1px;
+    border: 3px solid #33363b;
+    float:right;
+}
+#respond #comments-form .form-submit #submit-comment{
+    border: 1px solid #fff;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    padding: 3px 10px;
+    font-size: 12px;
+    font-weight: 700;
+    background-color: #33363b;
+}
+
+#respond #comments-form .form-submit:hover{
+    background-color: #33363b;
+    border-color: #fff;
+}
+
+#respond #comments-form .form-submit:hover #submit-comment{
+    background-color: #fff;
+    border-color: #33363b;
+    color: #33363b;
+}
+/* .kp-button{
+    background-color: red;
+} */
+
+/*
+4. Images
+*/
+.wp-caption {
+    max-width: 100%;
+}
+
+img[class*="align"],
+img[class*="wp-image-"],
+img[class*="attachment-"],
+img.size-full,
+img.size-large {
+    max-width:100%;
+    height: auto;
+}
+
+.gallery .gallery-item{
+    margin: 0;
+}
+
+/*
+5. Default Widget
+*/
+.textwidget * {
+    max-width:100%;
+    }
+    
+.textwidget .basic-layout {
+    padding: 5px;
+    }
+
+.widget_calendar table, .widget_archive select, .widget_categories select {
+    width:100%;
+    }
+
+.widget_search .sb-search-input,.widget_search  .sb-icon-search,.widget_search  .sb-search-submit  {
+   
+    position: relative;
+    
+}
+.widget_search .sb-search-submit, .widget_search .sb-icon-search {
+    display: none;
+}
+.widget_search .sb-search-input{
+    width: 100%;
+}
+.widget_categories ul li, .widget_pages ul li, .widget_nav_menu ul li{
+    list-style: none;
+    margin-top: 10px;
+}
+.widget_categories .children li{
+    padding: 0;
+}
+
+/*
+6. Table, list
+*/
+
+.entry-content table, .comment-content table{
+    
+    border-collapse: collapse;
+    border-spacing: 0;
+    line-height: 2;
+    margin: 0 0 20px;
+    width: 100%;
+}
+
+.entry-content dl, .comment-content dl  {
+   margin: 0 20px 0 20px;
+}
+.entry-content dd, .comment-content dd  {
+   margin-bottom: 20px;
+}
+ 
+ .entry-content ul, .comment-content ul, .entry-content ol, .comment-content ol{
+    margin-bottom: 10px;
+    padding-left: 40px;
+    margin-top: 10px;
+ }
+ .entry-content li > ol,.entry-content li > ul, .comment-content li > ol, .comment-content li > ul{
+    margin-top: 10px;
+ }
+ 
+ .entry-content ol li, .comment-content ol li{
+    list-style: decimal;
+ }
+ 
+ .entry-content address, .comment-content address{
+    font-style: italic;
+    margin-bottom: 24px;
+ }
+ .entry-box .page-links a{
+    margin-left: 0;
+ }
+ 
+ 
+ /*
+ 7. Threaded comment
+ */
+ 
+ #comments .comments-list ul.children .comment .comment-body{
+    width:auto;
+    overflow: hidden; 
+    float: none;
+ }
+ 
+ /*
+  8. 404 page
+  */
+ .error{
+ 	margin-top: 40px;
+ }
+ .error .left-col{
+ 	text-align:right;
+ 	
+ }
+ .error .left-col h1{
+ 	font-size: 60px;
+ }
+ 
+/*
+ * 9. Comment number & posted in
+ */
+
+.entry-categories, .entry-comments, .entry-tags {
+	float: none;
+	overflow: hidden;
+}
+
+/*
+ * 10. Article list older post
+ */
+.widget .older-post >li:first-child{
+	padding-top: 20px;
+	border-top: 1px solid #DFDFDF;
+	margin-top: 20px;
+}
+.widget .older-post li .entry-item .entry-thumb,
+.kp-topping-slider .slides li ul li .entry-item .entry-thumb,
+.accordion-container ul li .entry-item .entry-thumb  {
+    max-width: 80px;
+}
+
+/*
+11. Single post title
+*/
+.entry-box .entry-title .text-title, .breadcrumb {
+    max-width: 300px;
+}
+/*
+ current page
+*/
+.page-numbers .current{
+	color: #33363b;
+}
